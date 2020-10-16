@@ -1,0 +1,27 @@
+﻿
+#,"Project data:"
+#,,0
+#,,,"type:","R_Datelist",
+#,,,"series:","Reynolds et al., 2015",
+#,,,"refs:"
+#,,,,"doi:10.1017/ppr.2018.1",
+#,,,,"ref:reynolds2015cer",
+#,,,,"labcode","country","region","longitude","latitude","site","sample","material","species","d13C","r_date","r_date_sigma","qual","F14C","F14C_sigma"
+,,,,"OxA-30199","Russia","",39.1167,51.35,"Borshchevo 5","BV_6","bone","",-20.0148,24720,190,"",0.04608,0.00112,
+,,,,"OxA-30200","Russia","",39.1167,51.35,"Borshchevo 5","BV_8","bone","",-19.6241,25110,200,"",0.0439,0.00111,
+,,,,"OxA-30197","Russia","",39.1167,51.35,"Kostenki 8","KVIII_4","bone","Equus sp.",-19.5326,27620,270,"",0.0321,0.00108,
+,,,,"OxA-30198","Russia","",39.1167,51.35,"Kostenki 8","KVIII_5","bone","Equus sp.",-19.6275,27670,270,"",0.03191,0.00106,
+,,,,"OxA-30193","Russia","",39.05,51.4,"Kostienki IV Upper Palaeolithi","KIV_3","bone","Equus sp.",-19.9251,24790,190,"",0.04568,0.00111,
+,,,,"OxA-30194","Russia","",39.05,51.4,"Kostienki IV Upper Palaeolithi","KIV_2","bone","Equus sp.",-19.4849,25290,210,"",0.04295,0.00114,
+,,,,"OxA-30195","Russia","",39.05,51.4,"Kostienki IV Upper Palaeolithi","KIV_1","bone","Equus sp.",-19.9086,14210,70,"",0.17047,0.00147,
+,,,,"OxA-30196","Russia","",39.05,51.4,"Kostienki IV Upper Palaeolithi","KIV_10","bone","Coeladonta antiquitatis",-19.6793,24710,200,"",0.04615,0.00114,
+#,"Publications"
+#,,"Dinnis, R., Bessudnov, A.A., Reynolds, N., Douka, K., Dudin, A.E., Khlopachev, G.A., Sablin, M.V., Sinitsyn, A.A. and Higham, T.F. (2018) The Age of the ‘Anosovka-Tel’manskaya Culture’ and the Issue of a Late Streletskian at Kostёnki 11, SW Russia. Proceedings of the Prehistoric Society, pp.21-40. doi:10.1017/ppr.2018.1"
+#,,"Reynolds, N., Lisitsyn, S.N., Sablin, M.V., Barton, N. and Higham, T. (2015) Chronology of the European Russian Gravettian: new radiocarbon dating results and interpretation. Quatar, 62, pp.121-132."
+#,Compilation
+#,,"by:","Oxford Radiocarbon Accelerator Unit",
+#,,"url:","https://c14.arch.ox.ac.uk/database",
+#,,"updated:","2019-11-21T15:26:43-08:00",
+#,,"retrieved:","2020-04-29T04:08:27-07:00",
+#,"schema:","https://intchron.org/schema",
+#,"data_url:","https://c14.arch.ox.ac.uk/database/public.php?ref=reynolds2015cer",
